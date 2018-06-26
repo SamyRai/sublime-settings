@@ -1,0 +1,14 @@
+// SublimeLinter Settings - User
+{
+  "debug": true,
+  "linters": {
+    "rubocop": {
+      "enable": true,
+      "executable": "/home/dm/.rbenv/shims/ruby",
+    },
+    "ruby": {
+      "enable": true,
+      "executable": "/home/dm/.rbenv/shims/ruby",
+    }
+  }
+}

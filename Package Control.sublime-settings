@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"All Autocomplete",
+		"BeautifyRuby",
+		"Clipboard Manager",
+		"CSV",
+		"DotENV",
+		"EditorConfig",
+		"GitGutter",
+		"JSON Reindent",
+		"Package Control",
+		"Pretty JSON",
+		"ReactJS",
+		"RuboCop",
+		"Ruby on Rails snippets",
+		"SCSS",
+		"SideBarEnhancements",
+		"sublime-rufo",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby"
+	],
+	"repositories":
+	[
+		"https://github.com/ruby-formatter/sublime-rufo"
+	]
+}
