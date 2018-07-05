@@ -11,3 +11,6 @@
 /log/*
 /tmp/*
 Package Control.cache/**/*
+Package Control.merged-ca-bundle
+Package Control.last-run
+GoSublime/linux-x64/log.txt
