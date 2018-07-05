@@ -1,6 +1,9 @@
 // SublimeLinter Settings - User
 {
   "debug": true,
+  "paths": {
+      "linux": ["/home/dm/projects/go/bin"],
+  },
   "linters": {
     "rubocop": {
       "enable": true,
